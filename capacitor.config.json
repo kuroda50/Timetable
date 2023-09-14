@@ -1,0 +1,10 @@
+{
+    "appId": "com.example.app",
+    "appName": "test",
+    "bundledWebRuntime": false,
+    "webDir": "web",
+    "plugins": {},
+    "server": {
+      "androidScheme": "https"
+    }
+  }
